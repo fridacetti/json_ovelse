@@ -1,40 +1,42 @@
-[{
-  "navne": {
-    "fornavn": "Frida",
-    "efternavn": "Cetti Jørgensen"
+[
+  {
+    "navne": {
+      "fornavn": "Frida",
+      "efternavn": "Cetti Jørgensen"
+    },
+    "alder": 22,
+    "studerende": true,
+    "interesser": ["Design", "Strik", "Socialt liv"],
+    "adresse": {
+      "vej": "Amagerbrogade 263a",
+      "by": "København S",
+      "postnummer": 2300
+    },
+    "kontakt": [
+      { "type": "telefon", "nummer": "28665713" },
+      {
+        "type": "mail",
+        "adresse": "frjo0003@stud.kea.dk"
+      }
+    ],
+    "fødeslsdato": "26-07-2002"
   },
-  "alder": 22,
-  "studerende": true,
-  "interesser": ["Design", "Strik", "Socialt liv"],
-  "adresse": {
-    "vej": "Amagerbrogade 263a",
-    "by": "København S",
-    "postnummer": 2300
-  },
-  "kontakt": [
-    { "type": "telefon", "nummer": "28665713" },
-    {
-      "type": "mail",
-      "adresse": "frjo0003@stud.kea.dk"
-    }
-  ],
-  "fødeslsdato": "26-07-2002"
-}]
 
-[{
-  "navne":{
+  {
+    "navne": {
       "fornavn": "Tetiana",
       "efternavn": "Khytra"
-  },
-  "alder": 34,
-  "studerende": true,
-  "studie": "Multimeadiadesign",
-  "interesser": ["Design", "Medier", "Rejser"],
-  "kompetencer": ["Kode", "Design", "Webudvikning"],
-  "adresser":{
+    },
+    "alder": 34,
+    "studerende": true,
+    "studie": "Multimeadiadesign",
+    "interesser": ["Design", "Medier", "Rejser"],
+    "kompetencer": ["Kode", "Design", "Webudvikning"],
+    "adresser": {
       "vej": "Lottenborgvej 19",
       "by": "Kongens Lyngby",
       "postnummer": 2800
-  },
-  "fødselsdato": "1991-01-12"
-}]
+    },
+    "fødselsdato": "1991-01-12"
+  }
+]
