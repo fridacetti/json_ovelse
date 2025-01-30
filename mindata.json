@@ -1,4 +1,4 @@
-{
+[{
   "navne": {
     "fornavn": "Frida",
     "efternavn": "Cetti Jørgensen"
@@ -19,4 +19,22 @@
     }
   ],
   "fødeslsdato": "26-07-2002"
-}
+}]
+
+[{
+  "navne":{
+      "fornavn": "Tetiana",
+      "efternavn": "Khytra"
+  },
+  "alder": 34,
+  "studerende": true,
+  "studie": "Multimeadiadesign",
+  "interesser": ["Design", "Medier", "Rejser"],
+  "kompetencer": ["Kode", "Design", "Webudvikning"],
+  "adresser":{
+      "vej": "Lottenborgvej 19",
+      "by": "Kongens Lyngby",
+      "postnummer": 2800
+  },
+  "fødselsdato": "1991-01-12"
+}]
