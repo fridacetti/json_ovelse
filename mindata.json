@@ -1,0 +1,22 @@
+{
+  "navne": {
+    "fornavn": "Frida",
+    "efternavn": "Cetti Jørgensen"
+  },
+  "alder": 22,
+  "studerende": true,
+  "interesser": ["Design", "Strik", "Socialt liv"],
+  "adresse": {
+    "vej": "Amagerbrogade 263a",
+    "by": "København S",
+    "postnummer": 2300
+  },
+  "kontakt": [
+    { "type": "telefon", "nummer": "28665713" },
+    {
+      "type": "mail",
+      "adresse": "frjo0003@stud.kea.dk"
+    }
+  ],
+  "fødeslsdato": "26-07-2002"
+}
